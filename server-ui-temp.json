@@ -45,6 +45,15 @@
             "OnClickEvent": {
               "Url": "https://discord.gg/your-link-here"
             }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Connect with our community, get server updates, and find fellow survivors. Our Discord is the heart of our community!",
+              "FontSize": 12,
+              "Justification": "Center",
+              "Padding": [ 5, 5, 5, 5 ]
+            }
           }
         ]
       },
