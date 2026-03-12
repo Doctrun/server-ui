@@ -1,1 +1,117 @@
-hello
+{
+  "RequestUID": "Ark-Nucleus/WebUI",
+  "UUID": "MyCustomServerPage",
+  "Data": {
+    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
+    "Props": {
+      "UUID": "MainTab",
+      "Fill": 1
+    },
+    "UICache": {
+      "SaveFile": "CustomServerPage-MainTab"
+    },
+    "Tabs": [
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+        "Props": {
+          "Title": "Welcome to My Server",
+          "Note": "A custom server information page",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Welcome, Survivors!",
+              "FontSize": 32,
+              "Justification": "Center",
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Replace this text with your server description",
+              "FontSize": 16,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+            "Props": {
+              "Label": "Join Our Discord",
+              "Padding": [ 5, 5, 5, 5 ]
+            },
+            "OnClickEvent": {
+              "Url": "https://discord.gg/your-link-here"
+            }
+          }
+        ]
+      },
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "Server Information",
+          "Note": "Important server details",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Server Name: Your Server Name",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Map: Your Map Name",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Player Limit: Add your player limit",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          }
+        ]
+      },
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "Quick Links",
+          "Note": "Useful resources",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+            "Props": {
+              "Label": "Visit Website",
+              "Padding": [ 5, 5, 5, 5 ]
+            },
+            "OnClickEvent": {
+              "Url": "https://your-website.com"
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+            "Props": {
+              "Label": "Report Issues",
+              "Padding": [ 5, 5, 5, 5 ]
+            },
+            "OnClickEvent": {
+              "Url": "https://your-support-link.com"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
