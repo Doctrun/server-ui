@@ -14,15 +14,15 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
         "Props": {
-          "Title": "Welcome to My Server",
-          "Note": "A custom server information page",
+          "Title": "Willkommen auf meinem Server",
+          "Note": "Eine benutzerdefinierte Server-Informationsseite",
           "Fill": 1
         },
         "UIItems": [
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Welcome, Survivors!",
+              "Text": "Willkommen, Überlebende!",
               "FontSize": 32,
               "Justification": "Center",
               "Padding": [ 5, 5, 5, 5 ]
@@ -31,7 +31,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Replace this text with your server description",
+              "Text": "Ersetzen Sie diesen Text mit Ihrer Serverbeschreibung",
               "FontSize": 16,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -39,7 +39,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
             "Props": {
-              "Label": "Join Our Discord",
+              "Label": "Treten Sie unserem Discord bei",
               "Padding": [ 5, 5, 5, 5 ]
             },
             "OnClickEvent": {
@@ -49,7 +49,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Connect with our community, get server updates, and find fellow survivors. Our Discord is the heart of our community!",
+              "Text": "Verbinden Sie sich mit unserer Gemeinschaft, erhalten Sie Server-Updates und finden Sie Mitüberlebende. Unser Discord ist das Herz unserer Gemeinschaft!",
               "FontSize": 12,
               "Justification": "Center",
               "Padding": [ 5, 5, 5, 5 ]
@@ -60,15 +60,15 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
-          "Title": "Server Information",
-          "Note": "Important server details",
+          "Title": "Serverinformationen",
+          "Note": "Wichtige Serverdetails",
           "Fill": 1
         },
         "UIItems": [
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Server Name: Your Server Name",
+              "Text": "Servername: Ihr Servername",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -76,7 +76,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Map: Your Map Name",
+              "Text": "Karte: Ihr Kartenname",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -84,7 +84,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Player Limit: Add your player limit",
+              "Text": "Spielerlimit: Spielerlimit hinzufügen",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -94,15 +94,15 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
-          "Title": "Quick Links",
-          "Note": "Useful resources",
+          "Title": "Schnelllinks",
+          "Note": "Nützliche Ressourcen",
           "Fill": 1
         },
         "UIItems": [
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
             "Props": {
-              "Label": "Visit Website",
+              "Label": "Website besuchen",
               "Padding": [ 5, 5, 5, 5 ]
             },
             "OnClickEvent": {
@@ -112,7 +112,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
             "Props": {
-              "Label": "Report Issues",
+              "Label": "Probleme melden",
               "Padding": [ 5, 5, 5, 5 ]
             },
             "OnClickEvent": {
