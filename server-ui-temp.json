@@ -40,7 +40,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
             "Props": {
-              "Label": "Treten Sie unserem Discord bei",
+              "Label": "Join gerne unserem Offizielen Discord Server Mythria (DE)PVE",
               "Padding": [ 5, 5, 5, 5 ]
             },
             "OnClickEvent": {
