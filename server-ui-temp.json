@@ -121,6 +121,120 @@
             }
           }
         ]
+      },
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "Server Regeln",
+          "Note": "Wichtige Serverregeln - Bitte beachten!",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+            "Props": {
+              "Fill": 1
+            },
+            "UIItems": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "1. Respekt gegenüber anderen Spielern",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Behandeln Sie andere Überlebende mit Respekt. Belästigung, Hassreden und toxisches Verhalten werden nicht toleriert.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "2. Kein Cheaten oder Exploits",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Jede Art von Betrügen, Exploits oder Hacking führt zu sofortiger Sperrung. Wir achten auf faires Spielen.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "3. Bauen mit Bedacht",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Halte deine Strukturen in angemessener Größe, um die Serverleistung zu gewährleisten. Exzessives Bauen oder Pillar-Spamming ist nicht erlaubt.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "4. Kein Griefing",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Unnötiges Zerstören von Strukturen anderer Spieler ist nicht gestattet. Respektieren Sie das Eigentum Ihrer Mitüberlebenden.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "5. Rollenspiel erwünscht",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Beteilige dich an immersivem Rollenspiel! Ob einsamer Überlebender, Stammesanführer oder Dino-Zähmer - bringe deinen Charakter zum Leben.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "6. Regelverstöße melden",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Wenn Sie einen Spieler dabei erwischen, gegen die Regeln zu verstoßen, melden Sie ihn bitte an die Admins über Discord.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }
