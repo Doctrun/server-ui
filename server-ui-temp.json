@@ -14,7 +14,7 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
         "Props": {
-          "Title": "Willkommen auf meinem Server",
+          "Title": "Willkommen auf Mythria",
           "Note": "Eine benutzerdefinierte Server-Informationsseite",
           "Fill": 1,
           "Image": "https://cdn.survivetheark.com/uploads/monthly_2024_06/ASA_SummerBash_CC_416_28_June_StA_Cover_1200x675.png.4946192f6ccf8ff774755c978d73384b.png"
@@ -77,7 +77,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Karte: Ihr Kartenname",
+              "Text": "Karte: The Island",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -85,7 +85,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Spielerlimit: Spielerlimit hinzufügen",
+              "Text": "Spielerlimit: 20",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
