@@ -104,7 +104,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Rates: 3x XP | 5x Ernte | 8x Taming",
+              "Text": "Rates: 2x XP | 3x Harvest | 6x Taming | 30x Breeding | 11x EggHatch",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -120,7 +120,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Wipes: Kein geplanter Full-Wipe",
+              "Text": "DinoWipes: 12uhr mittags und 0uhr",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -128,7 +128,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Cluster: The Island | Scorched Earth | Aberration",
+              "Text": "Cluster: Comming soon",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
