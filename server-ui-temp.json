@@ -23,7 +23,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Willkommen, Überlebende!",
+              "Text": "Willkommen, Legenden!",
               "FontSize": 32,
               "Justification": "Center",
               "Color": [ 0, 0, 0 ],
