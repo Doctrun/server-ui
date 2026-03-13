@@ -17,8 +17,7 @@
           "Title": "Willkommen auf Mythria",
           "Note": "Eine benutzerdefinierte Server-Informationsseite",
           "Fill": 1,
-          "Image": "https://i.ibb.co/5W2Rr5KS/mythria-bild.png"
-        },
+          "Image": "https://i.ibb.co/1GfBFH69/mytrhria.png"     },
         "UIItems": [
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
