@@ -106,11 +106,11 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
             "Props": {
-              "Label": "Website besuchen",
+              "Label": "Ark Server Seite",
               "Padding": [ 5, 5, 5, 5 ]
             },
             "OnClickEvent": {
-              "Url": "https://your-website.com"
+              "Url": "https://deutsche-arkserver.de/server/mythria.46874/"
             }
           },
           {
