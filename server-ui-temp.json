@@ -17,7 +17,8 @@
           "Title": "Willkommen auf Mythria",
           "Note": "Eine benutzerdefinierte Server-Informationsseite",
           "Fill": 1,
-          "Image": "https://i.ibb.co/1GfBFH69/mytrhria.png"     },
+          "Image": "https://i.ibb.co/1GfBFH69/mytrhria.png"
+        },  },
         "UIItems": [
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
@@ -25,6 +26,7 @@
               "Text": "Willkommen, Überlebende!",
               "FontSize": 32,
               "Justification": "Center",
+              "Color": [ 0, 0, 0 ],
               "Padding": [ 5, 5, 5, 5 ]
             }
           },
@@ -33,6 +35,7 @@
             "Props": {
               "Text": "Ersetzen Sie diesen Text mit Ihrer Serverbeschreibung",
               "FontSize": 16,
+              "Color": [ 0, 0, 0 ],
               "Padding": [ 5, 5, 5, 5 ]
             }
           },
@@ -52,6 +55,7 @@
               "Text": "Verbinden Sie sich mit unserer Gemeinschaft, erhalten Sie Server-Updates und finden Sie Mitüberlebende. Unser Discord ist das Herz unserer Gemeinschaft!",
               "FontSize": 12,
               "Justification": "Center",
+              "Color": [ 0, 0, 0 ],
               "Padding": [ 5, 5, 5, 5 ]
             }
           }
