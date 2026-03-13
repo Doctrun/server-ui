@@ -53,7 +53,7 @@
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
               "Text": "Verbinden Sie sich mit unserer Gemeinschaft, erhalten Sie Server-Updates und finden Sie Mitüberlebende. Unser Discord ist das Herz unserer Gemeinschaft!",
-              "FontSize": 14,
+              "FontSize": 15,
               "Justification": "Center",
               "Color": [ 0, 0, 0 ],
               "Padding": [ 5, 5, 5, 5 ]
