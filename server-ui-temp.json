@@ -92,6 +92,46 @@
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Modus: PvE",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Rates: 3x XP | 5x Ernte | 8x Taming",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Crossplay: Aktiv",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Wipes: Kein geplanter Full-Wipe",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Cluster: The Island | Scorched Earth | Aberration",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
           }
         ]
       },
