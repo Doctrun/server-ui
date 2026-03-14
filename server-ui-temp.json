@@ -274,6 +274,22 @@
                   "FontSize": 12,
                   "Padding": [ 5, 5, 5, 5 ]
                 }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "7. Dämme und lootdrops",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "bieberdämme und lootdrops bitte komplett leeren auch wen man es nicht braucht.",
+                  "FontSize": 12,
+                  "Padding": [ 5, 5, 5, 5 ]
+                }
               }
             ]
           }
