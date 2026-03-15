@@ -294,6 +294,42 @@
             ]
           }
         ]
+      },
+      {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "Events",
+          "Note": "Aktuelle Server-Events",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Wöchentliche Events: Sonntag 20:00 Uhr",
+              "FontSize": 14,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "Event-Ankündigungen findet ihr auf Discord.",
+              "FontSize": 12,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+            "Props": {
+              "Label": "Zu den Events im Discord",
+              "Padding": [ 5, 5, 5, 5 ]
+            },
+            "OnClickEvent": {
+              "Url": "https://discord.gg/sr8gbgTU"
+            }
+          }
+        ]
       }
     ]
   }
