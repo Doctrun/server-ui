@@ -298,7 +298,7 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
-          "Title": "Votbelohnungen",
+          "Title": "Votebelohnungen",
           "Note": "Aktuelle Votebelohnugen",
           "Fill": 1
         },
@@ -330,13 +330,21 @@
             }
           },
           {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "30 Votes  10.000 Erdbeersamen  1 Dino deiner Wahl aus der Kategorie „Groß“ (inklusive Wunschfärbung)  1 Schneekugel (Einfärbeticket)  2 Silbermünzen",
+              "FontSize": 12,
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
+          {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
             "Props": {
-              "Label": "Zu den Events im Discord",
+              "Label": "Zu der VoteSeite",
               "Padding": [ 5, 5, 5, 5 ]
             },
             "OnClickEvent": {
-              "Url": "https://discord.gg/sr8gbgTU"
+              "Url": "https://deutsche-arkserver.de/server/mythria.46874/"
             }
           }
         ]
