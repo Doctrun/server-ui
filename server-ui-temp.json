@@ -138,36 +138,6 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
-          "Title": "Schnelllinks",
-          "Note": "Nützliche Ressourcen",
-          "Fill": 1
-        },
-        "UIItems": [
-          {
-            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-            "Props": {
-              "Label": "Ark Server Seite",
-              "Padding": [ 5, 5, 5, 5 ]
-            },
-            "OnClickEvent": {
-              "Url": "https://deutsche-arkserver.de/server/mythria.46874/"
-            }
-          },
-          {
-            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-            "Props": {
-              "Label": "Probleme melden",
-              "Padding": [ 5, 5, 5, 5 ]
-            },
-            "OnClickEvent": {
-              "Url": "https://discord.gg/sr8gbgTU"
-            }
-          }
-        ]
-      },
-      {
-        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-        "Props": {
           "Title": "Server Regeln",
           "Note": "Wichtige Serverregeln - Bitte beachten!",
           "Fill": 1
