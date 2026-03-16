@@ -296,11 +296,12 @@
         ]
       },
       {
-        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
         "Props": {
           "Title": "Votebelohnungen",
           "Note": "Danke für deine Unterstützung 💛",
-          "Fill": 1
+          "Fill": 1,
+          "Image": "https://i.ibb.co/sJXBtHzc/mythria-icon-geschwungen.png"
         },
         "UIItems": [
           {
