@@ -66,7 +66,8 @@
         "Props": {
           "Title": "Serverinformationen",
           "Note": "Wichtige Serverdetails",
-          "Fill": 1
+          "Fill": 1,
+          "Image": "https://i.ibb.co/0j7GsLDg/mythria-bild.png"
         },
         "UIItems": [
           {
