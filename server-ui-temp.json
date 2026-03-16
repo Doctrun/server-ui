@@ -316,7 +316,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Vielen Dank, dass du Mythria mit deinem Vote unterstützt!\nJeder Vote hilft uns zu wachsen und neue Spieler zu erreichen. 🎁",
+              "Text": "Vielen Dank, das du Mythria mit deinem Vote unterstützt!\nJeder Vote hilft uns zu wachsen und neue Spieler zu erreichen. 🎁",
               "FontSize": 14,
               "Justification": "Center",
               "Color": [ 0, 0, 0 ],
@@ -354,7 +354,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "⭐⭐⭐ 30 Votes\n• 10.000 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Groß“, inkl. Wunschfärbung)\n• 1 Schneekugel (Einfärbeticket)\n• 2 Silbermünzen",
+              "Text": "⭐⭐⭐ 30 Votes\n• 10.000 Erdbeersamen/n• 1 Dino deiner Wahl (Kategorie „Groß“, inkl. Wunschfärbung)\n• 1 Schneekugel (Einfärbeticket)\n• 2 Silbermünzen",
               "FontSize": 14,
               "Color": [ 0, 0, 0 ],
               "Padding": [ 8, 6, 8, 8 ]
