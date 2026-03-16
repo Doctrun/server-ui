@@ -316,7 +316,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Wöchentliche Events: Sonntag 20:00 Uhr",
+              "Text": "20 Votes  5500 Erdbeersamen  1 Dino deiner Wahl aus der Kategorie „Klein“",
               "FontSize": 14,
               "Padding": [ 5, 5, 5, 5 ]
             }
@@ -324,7 +324,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "Event-Ankündigungen findet ihr auf Discord.",
+              "Text": "25 Votes  8000 Erdbeersamen  1 Dino deiner Wahl aus der Kategorie „Groß“  1 Silbermünze",
               "FontSize": 12,
               "Padding": [ 5, 5, 5, 5 ]
             }
