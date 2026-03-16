@@ -141,7 +141,8 @@
         "Props": {
           "Title": "Server Regeln",
           "Note": "Wichtige Serverregeln - Bitte beachten!",
-          "Fill": 1
+          "Fill": 1,
+          "Image": "https://i.ibb.co/0j7GsLDg/mythria-bild.png"
         },
         "UIItems": [
           {
