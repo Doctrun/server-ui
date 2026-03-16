@@ -298,11 +298,21 @@
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
         "Props": {
-          "Title": "Events",
-          "Note": "Aktuelle Server-Events",
+          "Title": "Votbelohnungen",
+          "Note": "Aktuelle Votebelohnugen",
           "Fill": 1
         },
         "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props": {
+              "Text": "🗳️ Mythria Vote Belohnungen.Vielen Dank, dass du Mythria mit deinem Vote unterstützt!Mit jedem Vote hilfst du unserem Server zu wachsen und mehr Spieler auf Mythria aufmerksam zu machen. Als kleines Dankeschön warten verschiedene Belohnungen auf dich. 🎁",
+              "FontSize": 28,
+              "Justification": "Center",
+              "Color": [ 0, 0, 0 ],
+              "Padding": [ 5, 5, 5, 5 ]
+            }
+          },
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
