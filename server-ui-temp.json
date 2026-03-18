@@ -210,7 +210,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "pro tribe nur eine base auf jeder map die verfügbar ist bei fragen zu ausnahmen im discord bei einem admin im support melden .",
+                  "Text": "Pro Tribe nur eine Base auf jeder map die verfügbar ist bei fragen zu ausnahmen im discord bei einem admin im Support melden .",
                   "FontSize": 12,
                   "Padding": [ 5, 5, 5, 5 ]
                 }
@@ -226,7 +226,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "tauschen oder traden jeglicher art von boss dinos wie Therizinosaurus,Rexe oder Megatheriums sind nicht gestattet.",
+                  "Text": "Tauschen oder Traden jeglicher art von boss dinos wie Therizinosaurus,Rexe oder Megatheriums sind nicht gestattet.",
                   "FontSize": 12,
                   "Padding": [ 5, 5, 5, 5 ]
                 }
@@ -258,7 +258,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "bieberdämme und lootdrops bitte komplett leeren auch wen man es nicht braucht.",
+                  "Text": "Bieberdämme und Lootdrops bitte komplett leeren auch wen man es nicht braucht.",
                   "FontSize": 12,
                   "Padding": [ 5, 5, 5, 5 ]
                 }
