@@ -354,6 +354,16 @@
             "OnClickEvent": {
               "Url": "https://deutsche-arkserver.de/server/mythria.46874/"
             }
+          },
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+            "Props": {
+              "Label": "🔗 ServerHub Mythria",
+              "Padding": [ 8, 8, 8, 8 ]
+            },
+            "OnClickEvent": {
+              "Url": "https://serverhub.ngog.net/serverdetail?id=52529853-f0c9-4563-bf48-abe71941a595"
+            }
           }
         ]
       }
