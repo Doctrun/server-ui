@@ -282,7 +282,9 @@
               "Text": "🗳️ Mythria Vote-Belohnungen",
               "FontSize": 26,
               "Justification": "Center",
-              "Color": [ 1, 0, 0 ],
+              "Color": [ 1, 0.55, 0 ],
+              "OutlineColor": [ 0, 0, 0 ],
+              "OutlineSize": 1,
               "Padding": [ 8, 8, 8, 2 ]
             }
           },
@@ -292,7 +294,9 @@
               "Text": "Vielen Dank, das du Mythria mit deinem Vote unterstützt!\nJeder Vote hilft uns zu wachsen und neue Spieler zu erreichen. 🎁",
               "FontSize": 14,
               "Justification": "Center",
-              "Color": [ 1, 0, 0 ],
+              "Color": [ 1, 0.55, 0 ],
+              "OutlineColor": [ 0, 0, 0 ],
+              "OutlineSize": 1,
               "Padding": [ 8, 2, 8, 8 ]
             }
           },
@@ -302,7 +306,9 @@
               "Text": "━━━━━━━━━━━━━━━━━━━━",
               "FontSize": 12,
               "Justification": "Center",
-              "Color": [ 1, 0, 0 ],
+              "Color": [ 1, 0.55, 0 ],
+              "OutlineColor": [ 0, 0, 0 ],
+              "OutlineSize": 1,
               "Padding": [ 5, 4, 5, 4 ]
             }
           },
@@ -311,7 +317,9 @@
             "Props": {
               "Text": "⭐ 20 Votes\n• 5.500 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Klein“)",
               "FontSize": 14,
-              "Color": [ 1, 0, 0 ],
+              "Color": [ 1, 0.55, 0 ],
+              "OutlineColor": [ 0, 0, 0 ],
+              "OutlineSize": 1,
               "Padding": [ 8, 6, 8, 6 ]
             }
           },
@@ -320,7 +328,9 @@
             "Props": {
               "Text": "⭐⭐ 25 Votes\n• 8.000 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Groß“)\n• 1 Silbermünze",
               "FontSize": 14,
-              "Color": [ 1, 0, 0 ],
+              "Color": [ 1, 0.55, 0 ],
+              "OutlineColor": [ 0, 0, 0 ],
+              "OutlineSize": 1,
               "Padding": [ 8, 6, 8, 6 ]
             }
           },
@@ -329,7 +339,9 @@
             "Props": {
               "Text": "⭐⭐⭐ 30 Votes\n• 10.000 Erdbeersamen/n• 1 Dino deiner Wahl (Kategorie „Groß“, inkl. Wunschfärbung)\n• 1 Schneekugel (Einfärbeticket)\n• 2 Silbermünzen",
               "FontSize": 14,
-              "Color": [ 1, 0, 0 ],
+              "Color": [ 1, 0.55, 0 ],
+              "OutlineColor": [ 0, 0, 0 ],
+              "OutlineSize": 1,
               "Padding": [ 8, 6, 8, 8 ]
             }
           },
