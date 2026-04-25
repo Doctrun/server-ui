@@ -275,7 +275,7 @@
           "Fill": 1,
           "Image": "https://i.ibb.co/p6sWtWbP/Mythria-regeln.png" 
         },  
-        "UIItems": []
+        "UIItems": [
       },
       {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
