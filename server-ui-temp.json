@@ -326,7 +326,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "⭐⭐ 25 Votes\n• 8.000 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Groß“)\n• 1 Silbermünze",
+              "Text": "⭐⭐ 25 Votes\n• 8.000 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Groß")\n• 1 Silbermünze",
               "FontSize": 14,
               "Color": [ 0, 1, 0 ],
               "OutlineColor": [ 0, 0, 0 ],
