@@ -272,7 +272,8 @@
         "Props": {
           "Title": "Allgemeine Regeln",
           "Note": "Discord & Community Regelwerk - Bitte beachten!",
-          "Fill": 1
+          "Fill": 1,
+          "Image": "https://i.ibb.co/9Hh6v7V/IMG-20250425-132911.png"
         },
         "UIItems": [
           {
