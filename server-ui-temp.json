@@ -268,6 +268,211 @@
         ]
       },
       {
+        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
+        "Props": {
+          "Title": "Allgemeine Regeln",
+          "Note": "Discord & Community Regelwerk - Bitte beachten!",
+          "Fill": 1
+        },
+        "UIItems": [
+          {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+            "Props": {
+              "Fill": 1
+            },
+            "UIItems": [
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "⚙️ SERVER REGELWERK ⚙️",
+                  "FontSize": 20,
+                  "Justification": "Center",
+                  "Padding": [ 5, 8, 5, 4 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Unwissenheit schützt nicht vor Konsequenzen.",
+                  "FontSize": 13,
+                  "Justification": "Center",
+                  "Padding": [ 5, 2, 5, 8 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 1. Mindestalter",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Dieser Server ist 18+. Mit Beitritt bestätigst du dein Alter.\n➡️ Falschangaben = sofortiger Bann",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 2. Respekt & Verhalten",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Respekt ist Pflicht\nKeine Beleidigungen, Diskriminierung oder Hassrede\nFrauenfeindlichkeit = sofortiger Timeout\n➡️ Bis hin zum permanenten Bann",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 3. Inhalte",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Keine illegalen oder verstörenden Inhalte\nKein Verstoß gegen Discord TOS\nNSFW nur wenn erlaubt\n➡️ Sofortige Maßnahmen",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 4. Spam & Werbung",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Kein Spam oder unnötiges Pingen\nWerbung nur mit Erlaubnis\n➡️ Mute oder Bann",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 5. Rollen & Pings",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Kein unnötiges Markieren\nKein Missbrauch von @everyone / @here / @Syu / @DarkScorpion / @DarkChxntx",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 6. Team-Anweisungen",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Mods/Admins ist Folge zu leisten\nKeine öffentlichen Diskussionen\n➡️ Mute / Kick / Bann",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 7. Support & Verstöße",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Nur über 💌 support-ticket\nJeder Verstoß = Ticketpflicht\nKeine öffentlichen Callouts",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 8. Regelbestätigung",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Ohne Bestätigung kein Zugriff\n➡️ Automatische Entfernung",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 9. Namen",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Keine unangemessenen Namen\n➡️ Änderung oder Bann",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "📌 10. Konsequenzen",
+                  "FontSize": 14,
+                  "Padding": [ 5, 5, 5, 2 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "Verwarnung → Timeout → Mute → Kick → Bann",
+                  "FontSize": 12,
+                  "Padding": [ 5, 2, 5, 5 ]
+                }
+              },
+              {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                "Props": {
+                  "Text": "⚠️ Das Team entscheidet im Einzelfall.\n✨ Mit Beitritt akzeptierst du alle Regeln.",
+                  "FontSize": 13,
+                  "Justification": "Center",
+                  "Padding": [ 5, 8, 5, 8 ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
         "Props": {
           "Title": "Votebelohnungen",
@@ -326,7 +531,7 @@
           {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-              "Text": "⭐⭐ 25 Votes\n• 8.000 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Groß")\n• 1 Silbermünze",
+              "Text": "⭐⭐ 25 Votes\n• 8.000 Erdbeersamen\n• 1 Dino deiner Wahl (Kategorie „Groß“)\n• 1 Silbermünze",
               "FontSize": 14,
               "Color": [ 0, 1, 0 ],
               "OutlineColor": [ 0, 0, 0 ],
