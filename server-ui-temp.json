@@ -273,7 +273,7 @@
           "Title": "Allgemeine Regeln",
           "Note": "Discord & Community Regelwerk - Bitte beachten!",
           "Fill": 1,
-          "Image": "https://i.ibb.co/9Hh6v7V/IMG-20250425-132911.png"
+          "Image": "https://i.ibb.co/9Hh6v7V/IMG-20250425-132911.png" 
         },
         "UIItems": [
           {
@@ -294,7 +294,7 @@
               {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                 "Props": {
-                  "Text": "Unwissenheit schützt nicht vor Konsequenzen",
+                  "Text": "Unwissenheit schützt nicht vor Konsequenzen.",
                   "FontSize": 13,
                   "Justification": "Center",
                   "Padding": [ 5, 2, 5, 8 ]
